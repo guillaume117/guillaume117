@@ -2,7 +2,7 @@
 <img src="assets/logo.png" alt="AirIn Logo" width="200"/>
 
 
-Welcome to the **AirIn** GitHub repository, an initiative aimed at revolutionizing aircraft maintenance by integrating artificial intelligence solutions with a focus on explainability and reliability. This project leverages my expertise in AI, aeronautical maintenance, and operations research.
+Welcome to the **AirIn** GitHub repository, an initiative aimed at revolutionizing aircraft maintenance by integrating artificial intelligence solutions with a focus on explainability and reliability. This project leverages my expertise in AI, aeronautical maintenance, and operational research.
 
 ---
 
@@ -11,9 +11,9 @@ Welcome to the **AirIn** GitHub repository, an initiative aimed at revolutionizi
 I am a **Commander (Capitaine de Corvette)** in the French Navy, currently serving as the **Head of Airworthiness Maintenance** at the Hyères airbase. Throughout my 16-year career, I've gained extensive experience in both engineering and flight operations.
 
 ### Professional Background:
-- **Operator on Atlantique 2** for various missions in Africa, including hostage rescue operations.
+- **Operator on Atlantique 2** for various missions.
 - **Deputy Technical Commander of Flotilla 35F**, leading technical teams in aircraft maintenance.
-- Expertise in **AI** and **operations research**, following my **engineering degree at Supaéro** and a **master’s degree in applied mathematics**.
+- Expertise in **AI** and **operational research**, following my **engineering degree at Supaéro** and a **master’s degree in applied mathematics**.
 - Research experience with a **Gicat** startup on **formal verification of neural networks**, which resulted in a conference paper publication.
 
 ---
@@ -45,7 +45,7 @@ This project uses the following technologies:
 Contributions are welcome! If you have expertise in:
 - **Artificial Intelligence**
 - **Aeronautical Maintenance**
-- **Operations Research**
+- **Operational Research**
   
 Feel free to open issues, suggest improvements, or submit pull requests. Your input is highly valued!
 
